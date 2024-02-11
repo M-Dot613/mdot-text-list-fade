@@ -1,0 +1,20 @@
+.text-list-fade {
+  position: relative;
+}
+
+.word {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+@keyframes fadeInOut {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
