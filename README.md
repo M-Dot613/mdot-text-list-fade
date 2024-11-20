@@ -1,4 +1,4 @@
-# Text List Fade WordPress Plugin
+# Mdot Text List Fade WordPress Plugin
 
 Text List Fade is a WordPress plugin that allows you to create a shortcode to display a list of fading text on your website.
 
